@@ -1,0 +1,23 @@
+.header{
+    background-color: #abddef;
+    padding: 10px;
+}
+.header img{
+    width: 135px;
+}
+
+nav.nav-bar{
+    background: #459195d9;
+    padding: 5px;
+}
+nav.nav-bar a {
+    text-decoration: none;
+    font-size: 17px;
+    margin-right: 20px;
+    color: white;
+    font-family: arial;
+    padding: 5px;
+}
+nav.nav-bar a:hover {
+    background-color: rgb(124, 51, 24);
+}

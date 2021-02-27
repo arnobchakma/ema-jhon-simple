@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+.single-product {
+    display: flex;
+    padding: 1rem;
+    border: 1px solid #9191d7;
+}
+
+.product-title {
+    font-size: 14px;
+    text-align: justify;
+    color: #26b7be;
+}
+
+.product-title h2{
+    cursor: pointer;
+}
+
+.product-image {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.product-title p {
+    font-size: 18px;
+    color: #3a3a3a;
+    font-weight: 500;
+}
+
+button.cart-button {
+    background: #6cdee3;
+    padding: 7px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    width: 150px;
+    font-size: 15px;
+    font-family: arial;
+    cursor: pointer;
+}
